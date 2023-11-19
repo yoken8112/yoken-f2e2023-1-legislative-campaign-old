@@ -1,6 +1,6 @@
 module.exports = {
     base: './',
-    publicPath: './',
+    publicPath: '/yoken-f2e2023-1-legislative-campaign/',
     plugins: [
         vue()
     ]
