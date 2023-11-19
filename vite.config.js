@@ -5,6 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '/yoken-f2e2023-1-legislative-campaign/',
   plugins: [
     vue(),
   ],
